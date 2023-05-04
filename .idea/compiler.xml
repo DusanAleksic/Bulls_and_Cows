@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Bulls_and_Cows.Bulls_and_Cows-task.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Exception_handling-Catching_some_exceptions.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Exception_handling-Method_named_process.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Exception_handling-Theory.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Exception_handling-What_exceptions_can_be_handled.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Hierarchy_of_exceptions-Base_class.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Hierarchy_of_exceptions-Base_classes_of_RuntimeException.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Hierarchy_of_exceptions-Subclasses_of_Exception.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Hierarchy_of_exceptions-Theory.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-StringBuilder-Create_an_email.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-StringBuilder-Theory.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-The_keyword_super-Bank_account.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-The_keyword_super-Theory.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-The_keyword_super-When_the_keyword_is_used.main" target="11" />
+      <module name="Bulls_and_Cows.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
